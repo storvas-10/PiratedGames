@@ -26,6 +26,7 @@ Other noteworthy mentions:
 - [Tuttop](https://tuttop.com) - Russian Torrent site that has many well-seeded torrents that are normally kept up-to-date.
 - [TorrentMac](https://www.torrentmac.net/) - Mac Torrents.
 - [MacDrop](https://macdrop.net/) - Mac Torrents.
+- [PGTorrent](https://pgtorrent.com/) - Only for Torrent PC Games (Safe).
 
 **I do not recommend The Pirate Bay or Kickass Torrents at all due to how easy it is to pick up malware.**
 
